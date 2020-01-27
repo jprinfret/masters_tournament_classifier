@@ -49,4 +49,8 @@ Does Experience Matter? |
 
 
 ## Results
+My best classification model was a Random Forest Classifier with a F1-Score of 76%. Given the betting nature of this project, I focused on reducing capital losses (type I errors) and opporunity cost (type II errors)--hence F1. I also ran Logistic Regression, AdaBoost and Gradient Boosting Classifiers, however these had lower F1 scores (a summary of all metrics can be found in the executive over). I handled the class imbalance of the training set (2/3 make the cut, 1/3 miss the cut) using SMOTE and use StandardScaler to scale the data. 
 
+My regression models (Ridge, Lasso, unpenalized Linear Regression, and Random Forest Regression) all had similar RMSEs around 5 strokes, however Random Forest Regression had the best back test results. 
+
+The prediction portfolio (again, equal money is bet on each prediction each year) has an annualized IRR of approximately 150% (using excel's IRR function, I had cash outflows of $10/year occuring in March and then the winnings or $0 in losing years occuring in April of each year). 
