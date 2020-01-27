@@ -34,6 +34,16 @@ Summary of workflow and packages used can be found in the appendix of the Execut
 Cut Summary (Classification) |Top 10 Summary (Regression)
 :--:|:--:
 ![alt test](eda/made_the_cut.png)|![alt test](eda/top_10.png)
+Champion Score Summary |Worst Performers (min. 4 attempts)
+:--:|:--:
+![alt test](eda/champions_score.png)|![alt test](eda/worst_performers.png)
+Feature Distributions|Feature Correlations
+:--:|:--:
+![alt test](eda/feature_distributions.png) |![alt test](eda/heatmap.png)
+Does Experience Matter? |
+:--:|
+![alt test](eda/experience.png) |
+
 
 ## Results
 
