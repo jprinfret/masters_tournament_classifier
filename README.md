@@ -53,4 +53,4 @@ My best classification model was a Random Forest Classifier with a F1-Score of 7
 
 My regression models (Ridge, Lasso, unpenalized Linear Regression, and Random Forest Regression) all had similar RMSEs around 5 strokes, however Random Forest Regression had the best back test results. 
 
-The prediction portfolio (again, equal money is bet on each prediction each year) has an annualized IRR of approximately 150% (using excel's IRR function, I had cash outflows of $10/year occuring in March and then the winnings or $0 in losing years occuring in April of each year). 
+The prediction portfolio (again, equal money is bet on each prediction each year) has an IRR of approximately 150% (using excel's IRR function, I had cash outflows of $10/year occuring in March and either the winnings or $0 in losing years occuring in April of each year). 
