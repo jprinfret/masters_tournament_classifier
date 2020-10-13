@@ -12,7 +12,7 @@ Total Risk: $100
 
 Expected Payout of Scenario B: 50% x $0 = $0
 
-Expected Payout of Scenario A: 50% x ((10% x $180) + (10% x $200) + (10% x $100) + (10% x  $90) + (10% x $140) + (10% x $400) + (10% x $180) + (10% x $400) + (10% x $200) + (10% x $500)) = $160
+Expected Payout of Scenario A: 50% x ((10% x $180) + (10% x $200) + (10% x $100) + (10% x  $90) + (10% x $140) + (10% x $400) + (10% x $180) + (10% x $400) + (10% x $200) + (10% x $500)) = $120
 
 Total Expected Payout: $120, or a 20% return
 
